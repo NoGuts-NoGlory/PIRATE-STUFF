@@ -64,5 +64,5 @@ crashlytics-build.properties
 
 
 /Assets/TerrainSampleAssets/textures/Terrain/
-/Assets/TerrainSampleAssets/textures/Heightmaps/
+/Assets/TerrainSampleAssets/textures/Heightmaps/ignore/
 
