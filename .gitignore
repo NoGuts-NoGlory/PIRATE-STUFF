@@ -63,6 +63,7 @@ sysinfo.txt
 crashlytics-build.properties
 
 
-/Assets/TerrainSampleAssets/textures/Terrain/
-/Assets/TerrainSampleAssets/textures/Heightmaps/ignore/
+/Assets/TerrainSampleAssets/textures/Terrain/ignore/
+
+
 
