@@ -20,7 +20,11 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.cinemachine": {
+<<<<<<< HEAD
       "version": "2.9.7",
+=======
+      "version": "2.9.5",
+>>>>>>> 34f73e6aeab88beaa4a623c56b24964e6b36ec3c
       "depth": 0,
       "source": "registry",
       "dependencies": {
